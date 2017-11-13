@@ -20,6 +20,9 @@
 
 ### 参考资料
 包括
-1. 多传感器状态融合算法的说明文档。
+1. [多传感器状态融合算法的说明文档](https://github.com/Xue-boJin/Homework---Multisensor-Information-Fusion/blob/reference/9-%E5%A4%9A%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88%E6%96%B9%E6%B3%95.pdf)。
 2. 运动目标机动模型的说明文档，以及相关MATLAB子程序。
 3. 产生模拟测量传感器输出的程序为trajectory.m。
+
+
+ [younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")
