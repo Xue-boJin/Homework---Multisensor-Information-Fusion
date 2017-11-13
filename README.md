@@ -24,5 +24,3 @@
 2. [运动目标机动模型的说明文档](https://github.com/Xue-boJin/Homework---Multisensor-Information-Fusion/blob/reference/8-%E6%9C%BA%E5%8A%A8%E7%9B%AE%E6%A0%87%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%A8%A1%E5%9E%8B-%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB.pdf)，以及[相关MATLAB子程序](https://github.com/Xue-boJin/Homework---Multisensor-Information-Fusion/find/source)及其[功能说明文档](https://github.com/Xue-boJin/Homework---Multisensor-Information-Fusion/blob/source/%E7%AC%AC%E4%B8%83%E7%AB%A0%E6%B3%A8%E8%A7%A3.doc)
 3. 产生模拟测量传感器输出的程序为[trajectory.m](https://github.com/Xue-boJin/Homework---Multisensor-Information-Fusion/blob/source/trajectory.m)。
 
-
- [younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")
