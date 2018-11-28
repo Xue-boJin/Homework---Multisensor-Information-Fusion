@@ -4,7 +4,7 @@
 根据已知的轨迹描述，选择合适的运动目标机动模型和融合方法，利用MATLAB编写程序进行仿真研究。给出最终选择的模型及估计误差，并利用仿真结果说明。
 ## 要求完成内容
 1. 利用附录中给出的各个模型，编写程序，测试不同模型的跟踪结果。
-2. 利用已经选好的模型，编写融合算法的程序，分别实现测量融合算法I、测量融合算法II、track-to-track融合算法和最优状态融合算法四种算法的仿真结果，并比较各种算法的跟踪性能。
+2. 利用已经选好的模型，编写融合算法的程序，分别实现测量融合算法I、测量融合算法II、分布式状态融合算法、track-to-track融合算法和CI融合算法五种算法的仿真结果，并比较各种算法的跟踪性能。
 ## 附录
 ### 数据说明
 文件中给出MATLAB[数据文件DataforFusion](https://github.com/Xue-boJin/Homework---Multisensor-Information-Fusion/blob/source/mytarget.mat)，其中包括六组数据，它们是真实轨迹的横纵坐标数据( real_x, real_y)，第1个测量传感器测量数据（ measurement_x1， measurement_y1）， 第2个测量传感器的测量数据（measurement_x2 ，measurement_y2）。
